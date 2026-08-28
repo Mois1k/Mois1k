@@ -35,13 +35,6 @@ has to earn every byte it touches.
 It started as a dissertation project. It became an excuse to understand
 *everything* between "the board gets power" and "the program runs."
 
-<br>
-
-### **rust crypto library** &nbsp;·&nbsp; <img src="https://img.shields.io/badge/work-professional-7aa2f7?style=flat-square"/>
-
-Cryptographic primitives for embedded targets, with a C interface for the
-outside world. Where "it compiles" is the beginning of the job, not the end.
-
 ---
 
 ## `~/toolbox`
