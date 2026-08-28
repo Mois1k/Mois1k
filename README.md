@@ -58,17 +58,6 @@ struct Me {
 
 <br>
 
-## 📊 the stats corner
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mois1k&show_icons=true&theme=transparent&hide_border=true&title_color=CE7A5C&icon_color=CE7A5C&text_color=8A6D5C" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mois1k&theme=transparent&hide_border=true&ring=CE7A5C&fire=CE7A5C&currStreakLabel=CE7A5C" height="165"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 *mechatronics taught me how things move — Rust is teaching me how to trust that they move correctly.*
