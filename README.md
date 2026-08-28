@@ -2,7 +2,7 @@
 
 # hey, I'm Moise Ioan 🦀
 
-### mechatronics engineer → telecom engineer → low-level software developer
+### mechatronics engineer - cryptographic software developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CE7A5C&center=true&vCenter=true&width=460&lines=building+drivers+close+to+the+metal;somewhere+between+circuits+and+syntax;currently%3A+Rust+%40+NXP+Semiconductors" alt="Typing SVG" />
 
@@ -40,8 +40,6 @@ struct Me {
 
 - 🔐 embedded cryptography and secure low-level driver design in Rust
 - 📡 bare-metal / `no_std` programming — registers, boot sequences, no shortcuts
-- 🤖 mechatronic systems — from a line-follower robot to a PCB-processing prototype (my Bachelor's thesis)
-- 🌐 networking fundamentals (CCNA1) alongside embedded work
 
 <br>
 
@@ -64,8 +62,8 @@ struct Me {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=CE7A5C&icon_color=CE7A5C&text_color=8A6D5C" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true&ring=CE7A5C&fire=CE7A5C&currStreakLabel=CE7A5C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mois1k&show_icons=true&theme=transparent&hide_border=true&title_color=CE7A5C&icon_color=CE7A5C&text_color=8A6D5C" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mois1k&theme=transparent&hide_border=true&ring=CE7A5C&fire=CE7A5C&currStreakLabel=CE7A5C" height="165"/>
 
 </div>
 
